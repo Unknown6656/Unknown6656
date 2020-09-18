@@ -1,8 +1,8 @@
 ### Meddl loide!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=unknown6656&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unknown6656&layout=compact)
+| | |
+|----|----|
+|![GitHub stats](https://github-readme-stats.vercel.app/api?username=unknown6656&show_icons=true&include_all_commits=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unknown6656&layout=compact)|
 
 [ TODO ]
 
