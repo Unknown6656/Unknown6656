@@ -1,8 +1,16 @@
 # Meddl Loide!
 
-| | |
-|----|----|
-|![GitHub stats](https://github-readme-stats.vercel.app/api?username=unknown6656&show_icons=true&include_all_commits=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unknown6656&layout=compact)|
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=unknown6656&show_icons=true&include_all_commits=true" height="185"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown6656&layout=compact" height="185"/>
+        </td>
+    </tr>
+</table>
+
 
 [ TODO ]
 
