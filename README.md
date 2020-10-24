@@ -1,16 +1,11 @@
 # Meddl Loide!
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=unknown6656&show_icons=true&include_all_commits=true" height="185"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown6656&layout=compact" height="185"/>
-        </td>
-    </tr>
-</table>
-
+<a href="https://github.com/unknown6656">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unknown6656&show_icons=true&include_all_commits=true" height="190"/>
+</a>
+<a href="https://github.com/unknown6656">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown6656&layout=compact" height="190"/>
+</a>
 
 [ TODO ]
 
