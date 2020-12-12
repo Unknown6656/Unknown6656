@@ -44,6 +44,8 @@
 <a href="#">
   <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABACAQAAADCUP3RAAAALUlEQVR42u3MQREAAAwCoNm/9Er48iAAubIIhUKhUCgUCoVCoVAoFAqFwpXwAaZ+AEG4X77ZAAAAAElFTkSuQmCC" height="32"/>
 </a>
+<!--
 <a href="https://reddit.com/u/unknown6656" title="Plebbit | Unknown6656">
   <img align="center" src="https://www.iconfinder.com/icons/5279117/download/png/64" height="32"/>
 </a>
+-->
