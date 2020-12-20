@@ -1,7 +1,7 @@
 # Meddl Loide!
 
 <a href="https://github.com/unknown6656">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unknown6656&show_icons=true&include_all_commits=true" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unknown6656&show_icons=true&include_all_commits=true&count_private=true" height="150"/>
 </a>
 <a href="https://github.com/unknown6656">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown6656&layout=compact" height="150"/>
