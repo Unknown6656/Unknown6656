@@ -22,8 +22,11 @@
   <img align="center" src="https://avatars.githubusercontent.com/u/80210961?s=200&v=4" height="150"/>
 </a>
 <br/>
-[**@Duraphims**](https://github.com/DuraPhilms) [**@Unknown6656-Megacorp**](https://github.com/Unknown6656-Megacorp)
-
+<b>
+  <a href="https://github.com/DuraPhilms">@Duraphim</a>
+  &#nbsp; &#nbsp;
+  <a href="https://github.com/Unknown6656-Megacorp">@Unknown6656-Megacorp</a>
+</b>
 
 ## Links
 <a href="https://unknown6656.com" title="Unknown6656">
