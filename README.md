@@ -1,7 +1,8 @@
+<!--
 <a href="https://github.com/unknown6656">
   <img align="center" src="https://user-images.githubusercontent.com/8807985/110307836-a9609800-7fff-11eb-96f7-fdb3b9ad809b.jpg" height="200"/>
 </a>
-
+-->
 # Meddl Loide!
 <a href="https://github.com/unknown6656">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=unknown6656&show_icons=true&include_all_commits=true&count_private=true" height="150"/>
@@ -21,7 +22,8 @@
   <img align="center" src="https://avatars.githubusercontent.com/u/80210961?s=200&v=4" height="150"/>
 </a>
 <br/>
-@Duraphims @Unknown6656-Megacorp
+[**@Duraphims**](https://github.com/DuraPhilms) [**@Unknown6656-Megacorp**](https://github.com/Unknown6656-Megacorp)
+
 
 ## Links
 <a href="https://unknown6656.com" title="Unknown6656">
