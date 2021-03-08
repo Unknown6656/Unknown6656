@@ -24,7 +24,6 @@
 <br/>
 <b>
   <a href="https://github.com/DuraPhilms">@Duraphim</a>
-  &#nbsp; &#nbsp;
   <a href="https://github.com/Unknown6656-Megacorp">@Unknown6656-Megacorp</a>
 </b>
 
