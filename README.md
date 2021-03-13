@@ -4,6 +4,8 @@
 </a>
 -->
 # Meddl Loide!
+I'm Unknown6656 - a spicy computer boi from Krautland and the CEO of <a href="https://github.com/Unknown6656-Megacorp">@Unknown6656 Megacorporation Ltd</a>.
+
 <a href="https://github.com/unknown6656">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=unknown6656&show_icons=true&include_all_commits=true&count_private=true" height="150"/>
 </a>
