@@ -4,7 +4,7 @@
 </a>
 -->
 # Meddl Loide!
-I'm Unknown6656 - an intergalactic computer boi and the CEO of <a href="https://github.com/Unknown6656-Megacorp">@Unknown6656 Megacorporation Ltd</a>.
+I'm Unknown6656 - an intergalactic computer boi and the CEO of <a href="https://github.com/Unknown6656-Megacorp">Unknown6656 Megacorporation Ltd</a>.
 Serious stuff can be found elsewhere.
 
 <a href="https://github.com/unknown6656">
