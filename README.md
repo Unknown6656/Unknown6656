@@ -8,10 +8,10 @@ I'm Unknown6656 - a spicy computer boi and the CEO of <a href="https://github.co
 Serious stuff can be found elsewhere.
 
 <a href="https://github.com/unknown6656">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unknown6656&show_icons=true&include_all_commits=true&count_private=true" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unknown6656&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="150"/>
 </a>
 <a href="https://github.com/unknown6656">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown6656&layout=compact" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown6656&layout=compact&theme=dark" height="150"/>
 </a>
 
 ## [My Gists](https://gist.github.com/Unknown6656)
