@@ -16,6 +16,8 @@ Serious stuff can be found elsewhere.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown6656&layout=compact&theme=dark" height="150"/>
 </a><br/>
 
+![image](https://github.com/user-attachments/assets/02026dae-6525-4864-a346-52fccd633e9b)
+
 Meddl off.
 
 ## [My Gists](https://gist.github.com/Unknown6656)
