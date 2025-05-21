@@ -4,6 +4,8 @@
 </a>
 -->
 # Meddl Loide!
+<sup><i>Ach das ist ja herrlich, dass du hier bist! Rück mal ein Stück!</i></sup>
+
 I'm Unknown6656 - a spicy computer boi and the CEO of <a href="https://github.com/Unknown6656-Megacorp">Unknown6656 Megacorporation Ltd</a>.
 Serious stuff can be found elsewhere.
 
@@ -12,7 +14,9 @@ Serious stuff can be found elsewhere.
 </a>
 <a href="https://github.com/unknown6656">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown6656&layout=compact&theme=dark" height="150"/>
-</a>
+</a><br/>
+
+Meddl off.
 
 ## [My Gists](https://gist.github.com/Unknown6656)
 [ TODO ]
